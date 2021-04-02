@@ -21,7 +21,7 @@
 - 数字和字符串 - 整数 / 浮点数 / 复数 / 字符串 / 字符串基本操作 / 字符编码
 - 运算符 - 数学运算符 / 赋值运算符 / 比较运算符 / 逻辑运算符 / 身份运算符 / 运算符的优先级
 
-#### Day03 - [分支结构](https://github.com/hellgoddess/PythonGuide/blob/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD/%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.md)
+#### [分支结构](https://github.com/hellgoddess/PythonGuide/blob/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD/%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.md)
 
 - 分支结构的应用场景 - 条件 / 缩进 / 代码块 / 流程图
 - if语句 - 简单的if / if-else结构 / if-elif-else结构 / 嵌套的if
