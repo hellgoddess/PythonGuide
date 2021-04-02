@@ -6,4 +6,4 @@
 
 # Python
 ## 基础
-### Python基础知识
+### Python基础连载系列
