@@ -4,6 +4,11 @@
 
 ![公众号二维码](https://gitee.com/chushi123/picgo/raw/master/picture/公众号二维码.jpg)
 
+
+书籍收集
+
+> https://github.com/hellgoddess/ITBook
+
 # Python
 ## 基础
 ### Python基础连载系列
