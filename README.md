@@ -8,8 +8,9 @@
 上百本计算机书籍pdf收集
 
 > https://github.com/hellgoddess/ITBook
+
 获取Python100道练习题
-> 
+> https://github.com/hellgoddess/PythonGuide/tree/main/Python100%E9%81%93%E7%BB%83%E4%B9%A0%E9%A2%98
 # Python
 ### 基础
 ### 知识点/面试题（必看:muscle:）
