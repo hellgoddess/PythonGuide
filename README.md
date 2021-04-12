@@ -13,6 +13,45 @@
 > https://github.com/hellgoddess/PythonGuide/tree/main/Python100%E9%81%93%E7%BB%83%E4%B9%A0%E9%A2%98
 # Python
 ### 基础
-### 知识点/面试题（必看:muscle:）
+#### 知识点/面试题（必看:muscle:）
 1. [python基础连载系列](https://github.com/hellgoddess/PythonGuide/tree/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD)（点击跳转到页面：:heartpulse:）
 2. [python常见面试题汇总](https://github.com/hellgoddess/PythonGuide/blob/main/docs/python_%20Interview.md)
+
+#### 重要知识点讲解：
+
+
+
+#### python的容器分析：
+
+
+#### python并发编程：
+
+
+#### python垃圾回收机制：
+
+### 网络
+
+### 操作系统
+
+
+### 数据结构与算法
+#### 常见数据结构
+#### 算法
+算法总结：
+
+### 数据库
+
+#### MySQL
+#### 总结：
+#### 重要知识点：
+#### 面经问题总结：
+#### Redis
+
+### 常见应用
+
+#### 爬虫学习与练习：
+#### Django学习与实战
+#### Flask学习与实战
+
+
+### python学习常见问题汇总
