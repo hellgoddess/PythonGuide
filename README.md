@@ -14,5 +14,5 @@
 # Python
 ### 基础
 ### 知识点/面试题（必看:muscle:）
-### [python基础连载系列](https://github.com/hellgoddess/PythonGuide/tree/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD)（点击跳转到页面：:heartpulse:）
-### [python常见面试题汇总](https://github.com/hellgoddess/PythonGuide/blob/main/docs/python_%20Interview.md)
+1. [python基础连载系列](https://github.com/hellgoddess/PythonGuide/tree/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD)（点击跳转到页面：:heartpulse:）
+2. [python常见面试题汇总](https://github.com/hellgoddess/PythonGuide/blob/main/docs/python_%20Interview.md)
