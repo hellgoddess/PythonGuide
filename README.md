@@ -14,18 +14,21 @@
 2. [python常见面试题汇总](https://github.com/hellgoddess/PythonGuide/blob/main/docs/python_%20Interview.md)
 
 #### 重要知识点讲解：
-
+1. [python的生成器，迭代器和装饰器详解](https://mp.weixin.qq.com/s/hKMk285LRmGt7nDbMdepXw)
 
 
 #### python的容器分析：
 
 
 #### python并发编程：
-
+1. [python多线程多进程详解](https://mp.weixin.qq.com/s/2aA7ke4lpcpdLK0etDmK4g)
 
 #### python垃圾回收机制：
 
 ## 网络
+1. [一文搞定HTTP面试内容-上](https://mp.weixin.qq.com/s/7sO8CteDjkz2d6y4jX2eNQ)
+2. [一文搞定HTTP面试内容-下](https://mp.weixin.qq.com/s/1Umm6Ror1z-7oBCEBe6o5g)
+
 
 ## 操作系统
 
