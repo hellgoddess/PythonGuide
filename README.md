@@ -16,6 +16,7 @@
 #### 重要知识点讲解：
 1. [python的生成器，迭代器和装饰器详解](https://mp.weixin.qq.com/s/hKMk285LRmGt7nDbMdepXw)
 2. [一文读懂python68个内置函数](https://mp.weixin.qq.com/s/vtMHgt6kknU94fVZwfWjUA)
+3. [学了这么久Python，你知道Python有多少关键字吗？硬核总结来了！](https://mp.weixin.qq.com/s/tIaegWbFC-sHawKBmaiwnw)
 
 #### python的容器分析：
 
