@@ -38,6 +38,7 @@
 ### 数据结构与算法
 #### 常见数据结构
 #### 算法
+1.[一文学会Python十大排序算法](https://github.com/hellgoddess/PythonGuide/blob/main/docs/%E4%B8%80%E6%96%87%E5%AD%A6%E4%BC%9APython%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 算法总结：
 
 ## 数据库
