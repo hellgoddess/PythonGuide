@@ -17,6 +17,7 @@ Python思维导图
 #### 知识点/面试题（必看:muscle:）
 1. [python基础连载系列](https://github.com/hellgoddess/PythonGuide/tree/main/Python%E5%9F%BA%E7%A1%80%E8%BF%9E%E8%BD%BD)（点击跳转到页面：:heartpulse:）
 2. [python常见面试题汇总](https://github.com/hellgoddess/PythonGuide/blob/main/docs/python_%20Interview.md)
+3. [十二张Python思维导图带你学会Python](https://mp.weixin.qq.com/s/cTi12tOugs8y52hmBBTafg) 高清图片获取在gihub顶部
 
 #### 重要知识点讲解：
 1. [python的生成器，迭代器和装饰器详解](https://mp.weixin.qq.com/s/hKMk285LRmGt7nDbMdepXw)
@@ -35,7 +36,7 @@ Python思维导图
 ## 网络
 1. [一文搞定HTTP面试内容-上](https://mp.weixin.qq.com/s/7sO8CteDjkz2d6y4jX2eNQ)
 2. [一文搞定HTTP面试内容-下](https://mp.weixin.qq.com/s/1Umm6Ror1z-7oBCEBe6o5g)
-
+3. [60道计算机网络面试题请你查收~（上）（1-30](https://mp.weixin.qq.com/s/NAE4Lzvu8LO1Q6GrrdZHxg)
 
 ## 操作系统
 
