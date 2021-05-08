@@ -11,7 +11,7 @@ Python思维导图
 > 链接：https://pan.baidu.com/s/1Gc7A9qdXnfqVkEJl2-PhaA 提取码：k063 
 
 计算机网络pdf：
-
+> 链接： https://github.com/hellgoddess/PythonGuide/blob/main/docs/%E8%8E%B7%E5%8F%96%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9Cpdf.md
 
 # Python
 ## 基础
