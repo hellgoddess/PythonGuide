@@ -3,10 +3,13 @@
 ## 资源获取
 上百本计算机书籍pdf收集
 > https://github.com/hellgoddess/ITBook
+
 获取Python100道练习题
 > https://github.com/hellgoddess/PythonGuide/tree/main/Python100%E9%81%93%E7%BB%83%E4%B9%A0%E9%A2%98
+
 Python思维导图
 > 链接：https://pan.baidu.com/s/1Gc7A9qdXnfqVkEJl2-PhaA 提取码：k063 
+
 计算机网络pdf：
 
 
