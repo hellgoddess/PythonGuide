@@ -2,14 +2,12 @@
 
 ## 资源获取
 上百本计算机书籍pdf收集
-
 > https://github.com/hellgoddess/ITBook
-
 获取Python100道练习题
 > https://github.com/hellgoddess/PythonGuide/tree/main/Python100%E9%81%93%E7%BB%83%E4%B9%A0%E9%A2%98
-
 Python思维导图
 > 链接：https://pan.baidu.com/s/1Gc7A9qdXnfqVkEJl2-PhaA 提取码：k063 
+计算机网络pdf：
 
 
 # Python
@@ -37,6 +35,7 @@ Python思维导图
 1. [一文搞定HTTP面试内容-上](https://mp.weixin.qq.com/s/7sO8CteDjkz2d6y4jX2eNQ)
 2. [一文搞定HTTP面试内容-下](https://mp.weixin.qq.com/s/1Umm6Ror1z-7oBCEBe6o5g)
 3. [60道计算机网络面试题请你查收~（上）（1-30](https://mp.weixin.qq.com/s/NAE4Lzvu8LO1Q6GrrdZHxg)
+4. [60道计算机网络面试题请你查收~（下）（31-61](https://mp.weixin.qq.com/s/LcnOAdKq_8qG8hJ6ORAVsw)
 
 ## 操作系统
 
