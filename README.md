@@ -60,7 +60,9 @@
 #### MySQL
 #### 总结：
 1.[MySQL知识思维导图总结！](https://mp.weixin.qq.com/s/aMWgviKYMOX4GJ_ZfhJJXA)
+
 2.[一千行MySQL命令](https://github.com/hellgoddess/PythonGuide/blob/main/docs/%E4%B8%80%E5%8D%83%E8%A1%8CMySQL%E5%91%BD%E4%BB%A4.md)
+3.[MySQL高性能优化规范建议](https://github.com/hellgoddess/PythonGuide/blob/main/docs/MySQL%E9%AB%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%A7%84%E8%8C%83%E5%BB%BA%E8%AE%AE.md)
 #### 重要知识点：
 #### 面经问题总结：
 #### Redis
