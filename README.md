@@ -55,9 +55,9 @@
 算法总结：
 
 ## 数据库
-
 #### MySQL
 #### 总结：
+1.[MySQL知识思维导图总结！](https://mp.weixin.qq.com/s/aMWgviKYMOX4GJ_ZfhJJXA)
 #### 重要知识点：
 #### 面经问题总结：
 #### Redis
